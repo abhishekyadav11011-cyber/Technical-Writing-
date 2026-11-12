@@ -86,7 +86,7 @@ Topics:
 - Boxes and page breaks
 - Bibliography and BibTeX
 
-### 05 – Beamer Presentations
+### 05 – Beamer  Presentations
 Creating presentations using LaTeX Beamer.
 
 Includes:
